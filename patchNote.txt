@@ -1,18 +1,18 @@
-** **
-
---Added a pause!!!!
---Prices at Shoutkipper reduced
---Added loading screen with update checking
-
-** 0.230308v **
-
---Added the ability to hit with a torch (but does not set fire)
---Now when you press down on the platform, the character always goes down
---Aggressive enemy offsets fixed
---When hit with a spear, the character now does not move back
---Death animation plays in full
---After death, things and money in the new run do not remain
---At the beginning of the second run, the character does not get stuck in the wall
---Fixed wall collision on one of the levels
---Increased invulnerability frames to one second
---When entering a room, there is a 1 in 100,000 chance that you will be sent to the "Fuck you Dina" room
+** **#
+#
+--Added a pause!!!!#
+--Prices at Shoutkipper reduced#
+--Added loading screen with update checking#
+#
+** 0.230308v **#
+#
+--Added the ability to hit with a torch (but does not set fire)#
+--Now when you press down on the platform, the character always goes down#
+--Aggressive enemy offsets fixed#
+--When hit with a spear, the character now does not move back#
+--Death animation plays in full#
+--After death, things and money in the new run do not remain#
+--At the beginning of the second run, the character does not get stuck in the wall#
+--Fixed wall collision on one of the levels#
+--Increased invulnerability frames to one second#
+--When entering a room, there is a 1 in 100,000 chance that you will be sent to the "Fuck you Dina" room#
